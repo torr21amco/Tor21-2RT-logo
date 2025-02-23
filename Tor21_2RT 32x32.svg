@@ -1,38 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2018 (64 Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="11.2888mm" height="11.2888mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 1128.88 1128.88"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="64.9709mm" height="64.971mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6497.08 6497.09"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    <![CDATA[
+    .str1 {stroke:#F5B531;stroke-width:75;stroke-miterlimit:22.9256}
+    .str2 {stroke:#A9ABAE;stroke-width:20;stroke-miterlimit:22.9256}
+    .str0 {stroke:#373435;stroke-width:20;stroke-miterlimit:22.9256}
     .fil1 {fill:none}
-    .fil0 {fill:#373435}
+    .fil0 {fill:#A9ABAE}
+    .fil5 {fill:#A9ABAE}
+    .fil2 {fill:#373435}
+    .fil4 {fill:url(#id3)}
+    .fil3 {fill:url(#id4)}
    ]]>
   </style>
    <clipPath id="id0">
-    <path d="M564.44 -0.01c311.73,0 564.44,252.72 564.44,564.45 0,311.73 -252.71,564.45 -564.44,564.45 -311.73,0 -564.44,-252.72 -564.44,-564.45 0,-311.73 252.71,-564.45 564.44,-564.45z"/>
+    <path d="M3248.55 0c1794.11,0 3248.54,1454.43 3248.54,3248.55 0,1794.13 -1454.43,3248.55 -3248.54,3248.55 -1794.12,0 -3248.55,-1454.42 -3248.55,-3248.55 0,-1794.12 1454.43,-3248.55 3248.55,-3248.55z"/>
    </clipPath>
     <clipPath id="id1">
-     <path d="M564.44 -0.01c311.73,0 564.44,252.72 564.44,564.45 0,311.73 -252.71,564.45 -564.44,564.45 -311.73,0 -564.44,-252.72 -564.44,-564.45 0,-311.73 252.71,-564.45 564.44,-564.45z"/>
     </clipPath>
     <clipPath id="id2">
-     <path d="M564.44 -0.01c311.73,0 564.44,252.72 564.44,564.45 0,311.73 -252.71,564.45 -564.44,564.45 -311.73,0 -564.44,-252.72 -564.44,-564.45 0,-311.73 252.71,-564.45 564.44,-564.45z"/>
+     <path d="M3248.55 0c1794.11,0 3248.54,1454.43 3248.54,3248.55 0,1794.13 -1454.43,3248.55 -3248.54,3248.55 -1794.12,0 -3248.55,-1454.42 -3248.55,-3248.55 0,-1794.12 1454.43,-3248.55 3248.55,-3248.55z"/>
     </clipPath>
+  <linearGradient id="id3" gradientUnits="objectBoundingBox" x1="0%" y1="50%" x2="100%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F9CC57"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F5B531"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="1848.16" y1="3260.89" x2="2736.64" y2="3260.89">
+  </linearGradient>
  </defs>
  <g id="Capa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0" d="M564.44 -0.01c311.73,0 564.44,252.72 564.44,564.45 0,311.73 -252.71,564.45 -564.44,564.45 -311.73,0 -564.44,-252.72 -564.44,-564.45 0,-311.73 252.71,-564.45 564.44,-564.45z"/>
+  <path class="fil0" d="M3248.55 0c1794.11,0 3248.54,1454.43 3248.54,3248.55 0,1794.13 -1454.43,3248.55 -3248.54,3248.55 -1794.12,0 -3248.55,-1454.42 -3248.55,-3248.55 0,-1794.12 1454.43,-3248.55 3248.55,-3248.55z"/>
   <g style="clip-path:url(#id0)">
-   <g id="_2506070847824">
+   <g id="_2506080372864">
    </g>
    <g style="clip-path:url(#id1)">
-    <image id="torr21.png" x="-194.04" y="-194.03" width="1516.95" height="1516.95" xlink:href="Tor21_2RT 32x32_Images\Tor21_2RT 32x32_ImgID1.png"/>
+    <image id="torr21.png" x="-10602.97" y="3033.54" width="8730.5" height="8730.53" xlink:href="Tor21_2RT 32x32_Images\Tor21_2RT 32x32_ImgID1.png"/>
    </g>
    <g style="clip-path:url(#id2)">
    </g>
   </g>
-  <path class="fil1" d="M564.44 -0.01c311.73,0 564.44,252.72 564.44,564.45 0,311.73 -252.71,564.45 -564.44,564.45 -311.73,0 -564.44,-252.72 -564.44,-564.45 0,-311.73 252.71,-564.45 564.44,-564.45z"/>
+  <path class="fil1" d="M3248.55 0c1794.11,0 3248.54,1454.43 3248.54,3248.55 0,1794.13 -1454.43,3248.55 -3248.54,3248.55 -1794.12,0 -3248.55,-1454.42 -3248.55,-3248.55 0,-1794.12 1454.43,-3248.55 3248.55,-3248.55z"/>
+  <ellipse class="fil2 str0" cx="3248.54" cy="3248.55" rx="3063.25" ry="3036.38"/>
+  <ellipse class="fil2 str1" cx="3248.55" cy="3248.55" rx="2313.72" ry="2293.43"/>
+  <ellipse class="fil2 str2" cx="3248.55" cy="3248.55" rx="2038.75" ry="2020.87"/>
+  <polygon class="fil0 str0" points="2417.87,2430.22 3112.67,2430.22 3121.93,1491.49 "/>
+  <polygon class="fil0 str0" points="4093.98,2433.32 3393.02,2433.32 3402.28,1503.84 "/>
+  <polygon class="fil0 str0" points="2408.66,4075.98 3250.66,5062.48 4063.75,4076.1 3455.43,4076.1 3242.36,4341.67 3026.2,4073.01 "/>
+  <path class="fil3 str0" d="M1854.34 2669.55l-3.09 253.21c74.11,2.06 171.74,3.02 245.85,5.08 41.91,-13.17 50.66,-18.22 94.62,-18.53l167.86 0c98.17,25.63 122.65,115.48 41.35,189.5l-552.77 503.3 0 250.13 880.07 3.08 0 -253.21 -497.16 0 407.61 -361.29c209.74,-269.64 67.29,-558.88 -281,-574.35l-503.34 3.08z"/>
+  <path class="fil4 str0" d="M2938.21 2663.38l-3.09 1173.42 287.18 0 6.18 -379.82 142.05 0 293.35 379.82 324.24 0 -335.05 -450.85c356.33,-192.86 261.14,-676.77 -118.88,-725.66l-595.98 3.09z"/>
+  <polygon class="fil4 str0" points="3972.67,2657.2 3969.75,2918.15 4247.67,2918.15 4253.67,3842.96 4537.77,3846.05 4550.29,2918.15 4837.47,2918.15 4840.38,2657.2 "/>
+  <g id="_2506080377664">
+   <polygon class="fil5" points="2990.72,645.38 3503.31,633.02 3250.1,274.82 "/>
+   <polygon class="fil5" points="2990.72,5830.09 3503.31,5842.45 3250.1,6200.65 "/>
+  </g>
+  <g id="_2506080379296">
+   <polygon class="fil5" points="654.66,3494.03 642.3,2981.44 284.1,3234.65 "/>
+   <polygon class="fil5" points="5839.37,3494.03 5851.73,2981.44 6209.93,3234.65 "/>
+  </g>
+  <g id="_2506080379520">
+   <polygon class="fil5" points="1728.88,1120.84 2166.62,853.84 1768.24,670.23 "/>
+   <polygon class="fil5" points="4321.23,5610.93 4771.33,5365.33 4731.15,5802.15 "/>
+  </g>
+  <g id="_2506080388832">
+   <polygon class="fil5" points="4771.33,1120.84 4333.59,853.84 4731.97,670.23 "/>
+   <polygon class="fil5" points="2178.98,5610.93 1728.88,5365.33 1769.06,5802.15 "/>
+  </g>
+  <g id="_2506080408032">
+   <polygon class="fil5" points="871.14,2173.47 1115.11,1722.48 678.44,1764.24 "/>
+   <polygon class="fil5" points="5370.59,4749.54 5636,4310.84 5821.05,4708.56 "/>
+  </g>
+  <g id="_2506080416480">
+   <polygon class="fil5" points="5628.35,2173.47 5384.38,1722.48 5821.05,1764.24 "/>
+   <polygon class="fil5" points="1128.9,4749.54 863.49,4310.84 678.44,4708.56 "/>
+  </g>
+  <path class="fil2 str0" d="M3227.74 2903.46l225.42 0c162.8,39.54 184.85,251.53 0,310.35l-225.42 0 0 -310.35z"/>
  </g>
 </svg>
